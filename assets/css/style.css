@@ -271,6 +271,7 @@ main {
 
 .fan-pass {
   background-image: url("../images/portfolio1.JPG");
+  background-size: 100%;
 }
 
 .concert-tracker {
